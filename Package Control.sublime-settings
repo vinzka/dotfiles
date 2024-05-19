@@ -2,6 +2,18 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"ERB Snippets",
+		"Git",
+		"Latest Migration",
+		"MagicPython",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
 	],
 	"installed_packages":
 	[
